@@ -123,6 +123,14 @@
   }
   body {
     @apply bg-background text-foreground;
+    background-image:
+      radial-gradient(circle at top right, rgba(56, 189, 248, 0.12), transparent 26%),
+      radial-gradient(circle at bottom left, rgba(168, 85, 247, 0.08), transparent 22%);
+  }
+  html.dark body {
+    background-image:
+      radial-gradient(circle at top right, rgba(56, 189, 248, 0.16), transparent 30%),
+      radial-gradient(circle at bottom left, rgba(167, 139, 250, 0.11), transparent 25%);
   }
   html {
     @apply font-sans;

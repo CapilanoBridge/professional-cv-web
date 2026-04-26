@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dylan Mylz - Professional CV",
+  title: "Dylan Mylz Mabborang - Professional CV",
   description: "Professional CV website showcasing skills, experience, and projects.",
 };
 

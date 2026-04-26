@@ -59,3 +59,4 @@ This app is ready for Vercel deployment. After pushing to GitHub, connect the re
 - The page content is written to reflect professional and academic experience in modern web and AI development.
 - The theme toggle works using class-based dark mode and preserves system preferences.
 - The layout is responsive for mobile and desktop screens.
+- A downloadable resume is available at `/resume.pdf`.
