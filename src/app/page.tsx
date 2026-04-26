@@ -62,7 +62,7 @@ export default function Home() {
               <CardContent className="space-y-6 p-8">
                 <div className="flex items-center gap-4">
                   <Avatar className="h-20 w-20 rounded-3xl ring-1 ring-border">
-                    <AvatarImage src="/Dyls.jpg" alt="Dylan Mylz Mabborang" />
+                    <AvatarImage src="/Dylan.png" alt="Dylan Mylz Mabborang" />
                     <AvatarFallback>DM</AvatarFallback>
                   </Avatar>
                   <div>
